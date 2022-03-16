@@ -1,0 +1,7 @@
+mkdir 0x01_git
+cd 0x01_git
+echo "My second readme" > README.md
+git add .
+git commit -m "my second commit"
+git push
+
